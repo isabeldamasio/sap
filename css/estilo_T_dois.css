@@ -1,0 +1,1223 @@
+@font-face {
+    font-family: Arquitecta;
+    src: url(../css/ArquitectaLight.otf);
+}
+
+@font-face {
+    font-family: Arquitecta-bold;
+    src: url(../css/ArquitectaBold.otf);
+}
+
+.fonteA{
+    font-family: Arquitecta-bold;
+    color: #033EA6;
+}  
+
+.desc{
+    font-family: Arquitecta-bold;
+    color: black;
+}
+
+.fonteB{
+    font-family: Arquitecta;
+    color: #033EA6;
+}  
+
+.produtos{
+    background-color: white;
+    margin-left: 1%;
+    border-radius: 8px;
+}
+
+#primeiraSection{
+    display: flex;
+    margin: 0.5% 35% 2% 0.5%;
+    padding: 2% 5% 0% 0%;
+    height: 30%;
+    justify-content: space-around;
+    background-color: #D6E6F9;
+    border-radius: 10px;
+}
+
+#robo{
+    width: 100%;
+    height: 90%;
+}
+
+.barraUm{
+    font-family: Arquitecta;
+    color: white;
+    background-color: #033EA6;
+    border-radius: 15px;
+    padding: 2%;
+}
+
+#teste{
+    text-align: center;
+    width: 400px;
+}
+
+h1{
+    font-size:  30px;
+}
+
+#talk{
+    font-family: Arquitecta;
+    color: white;
+    background-color: #033EA6;
+    border-radius: 15px;
+    padding: 2% 2% 2% 4%;
+    margin-right: 50%;
+}
+
+#segundaSection{
+    margin: 0.5% 35% 2% 0.5%;
+    padding: 1% 5% 4% 2%;
+    height: 30%;
+    justify-content: space-around;
+    background-color: #D6E6F9;
+    border-radius: 10px;
+}
+
+.papel{
+    height: 167px;
+    width: 173px;
+}
+
+#linha{
+    display: flex;
+}
+
+.baseado{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#terceira{
+    margin: 0.5% 35% 2% 0.5%;
+    padding: 0.5% 1% 4% 2%;
+    height: 30%;
+    justify-content: space-around;
+    background-color: #D6E6F9;
+    border-radius: 10px;
+}
+
+.pedido{
+    font-family: Arquitecta-bold;
+}
+
+.processos{
+    background-color: white;
+    display: flex;
+    margin: 1%;
+    padding-top: 1%;
+    border-radius: 10px;
+}
+
+#certinho{
+    width: 30px;
+    height: 30px;
+}
+
+.barra{
+    width: 18%;
+    height: 5px;
+    text-align: center;
+    padding-top: 1.3%;
+}
+
+
+.amarelo{
+    font-family: arquitecta-bold;
+    width: 30px;
+    height: 30px;
+    color: white;
+    background-color: #ebd13d;
+    border-radius: 100%;
+    text-align: center;
+}
+
+.azul{
+    font-family: arquitecta-bold;
+    width: 28px;
+    height: 28px;
+    color: #033EA6;
+    border: 2px solid #033EA6;
+    border-radius: 100%;
+    text-align: center;
+}
+
+.direita{
+    position: absolute;
+    top: 1%;
+    left: 67%;
+    width: 30%;
+    padding: 0.2% 1% 1% 1%;
+    height: 41%;
+    background-color: #D6E6F9;
+    border-radius: 10px;
+}
+
+#linhao{
+    font-family: Arquitecta-bold;
+    color: #033EA6;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mengao{
+    font-family: Arquitecta-bold;
+    color: black;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin: 1% 0% 1% 0%;
+    padding: 0% 1% 0% 1%;
+    border-radius: 7px;
+}
+
+#morango{
+    color: white;
+    background-color: #eb3d3d;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1% 3% 1% 3%;
+}
+
+#sol{
+    color: white;
+    background-color: #ebd13d;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1% 3% 1% 3%;
+}
+
+#folha{
+    color: white;
+    background-color: #62b84f;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1% 3% 1% 3%;
+}
+
+.direitaDois{
+    position: absolute;
+    top: 97%;
+    left: 67%;
+    width: 30%;
+    padding: 0.2% 1% 1% 1%;
+    background-color: #D6E6F9;
+    border-radius: 10px;
+}
+
+
+
+#Primeira{
+    display: flex;
+    align-items: center;
+    background-color:#D6E6F9 ;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#Tamanho{
+    width: 25px;
+    height: 25px;
+    padding: 0 20px 0 430px;
+}
+
+#Display{
+    padding: 0 5px 0 60px;
+}
+
+#Textin{
+    padding: 0 20px 0 130px;
+}
+
+.Koby{
+    width: 60px;
+    height: 60px;
+    padding: 10px 5px 10px 0;
+}
+
+.Monalisa{
+    width: 60px;
+    height: 60px;
+    padding: 0 0 10px 0;
+}
+
+#dois{
+    background-color:#D6E6F9 ;
+    width: 40%;
+    padding: 10px 20px 15px 0;
+    border-radius: 20px
+}
+
+.Empurra{
+    padding-left: 10px;
+    background-color: white;
+    margin-left: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    display: flex;
+    width: 550px;
+    font-family: arquitecta-bold;
+}
+
+#Section{
+    position: absolute;
+    top: 48%;
+    left: 67%;
+    background-color: #D6E6F9;
+    width: 32%;
+    border-radius: 20px;
+}
+
+.Empurrar{
+    padding-left: 395px;
+    font-family: arquitecta-bold;
+}
+
+.EmpurrarDenovo{
+    padding-left: 380px;
+    font-family: arquitecta-bold;
+}
+
+#BBarra{
+    width: 100%;
+    height: 2%;
+}
+
+body{
+    margin:0;
+    background-color: #F5F5F5;
+}
+
+header{
+    background-color: #DCDCDC;
+}
+
+#Titulo{
+    margin: 0 0 0.2% 0.5%;
+}
+
+.Escrita{
+    color: #696969;
+}
+
+#ButtonSave{
+    padding: 0.01%;
+    padding-right: 1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 30px;
+    width: 65px;
+}
+
+#ButtonSave img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.01% 0 1% 0;
+}
+
+#ButtonCancel{
+    padding: 0.01%;
+    padding-right: 1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 75px;
+}
+
+#ButtonCancel img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.01% 0 1% 0;
+}
+
+#ButtonPencil{
+    padding: 0.01%;
+    padding-right: 1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 65px;
+    filter: brightness(0.8);
+}
+
+#ButtonPencil img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#ButtonSaveDraft{
+    padding: 0.2%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 105px;
+    filter: brightness(0.8);
+}
+
+#ButtonSaveDraft img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#ButtonLoadDraft{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 75px;
+    filter: brightness(0.8);
+}
+
+#ButtonLoadDraft img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#ButtonCetasRodando{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 27px;
+    filter: brightness(0.8);
+}
+
+#ButtonCetasRodando img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#ButtonUndo{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 75px;
+    filter: brightness(0.8);
+}
+
+#ButtonUndo img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#ButtonRedo{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 75px;
+    filter: brightness(0.8);
+}
+
+#ButtonRedo img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#Button{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 50px;
+}
+
+.PaperIcon{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 35px;
+}
+
+.PaperIcon img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#Alinhamento{
+    display: flex;
+    align-items: center;
+    background-color: #DCDCDC;
+}
+
+#FunctionsButton{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 130px;
+}
+
+#ButtonNew{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 65px;
+}
+
+#ButtonNew img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#LixeiraIcon{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 35px;
+}
+
+#LixeiraIcon Img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#CopyIcon{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 35px;
+}
+
+#CopyIcon img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#UP{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 35px;
+    filter: brightness(0.8);
+}
+
+#HumanIcon{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 35px;
+}
+
+#HumanIcon img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#SegundoAlinhamento{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    margin-top: 0.1%;
+    margin-bottom: 0.001%;
+    justify-content: flex-start;
+    width: 200px;
+}
+
+#AlinhamentoSurpresa{
+    background-color: #F5F5F5;
+    width: 360px;
+}
+
+#Separação{
+    margin: 20px;
+    padding-top: 3px;
+}
+
+#TamanhoImagem{
+    height: 25px;
+    width: 25px;
+    margin-left: 60px;
+}
+
+#TerceiroAlinhamento{
+    display: flex;
+    width: 200px;
+}
+
+#ButtonDown{
+    padding: 1%;
+    padding-right: 1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 50px;
+}
+
+#SegundaLinhaSurpresa{
+    background-color: #DCDCDC;
+    width: 360px;
+}
+
+#Margin{
+    margin: 14px;
+}
+
+Table, th, td{
+    border: 1px solid #C0C0C0;
+    border-collapse: collapse;
+    padding: 5px 29.2px 5px 5px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Bloco{
+    background-color: #e5e5e5;
+}
+
+#QuartoAlinhamento{
+    width: 360px;
+}
+
+#CorEspecifica{
+    background-color: #1E90FF   ;
+}
+
+.SegundaCor{
+    background-color: #87CEFA;
+}
+
+#BarraDivisoria{
+    background-color: #DCDCDC;
+}
+
+#IconAba{
+    width: 15px;
+    height: 15px;
+    padding-left: 20px;
+}
+
+#Reunir{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-top: 10px;
+    position: absolute;
+    top: 10%;
+    left: 19%;
+    background-color: #f2f2f2;
+}
+
+.Espacamento{
+    padding: 0.1px 5px 0 15px;
+}
+
+#IconPast{
+    justify-content: space-between;
+    width: 15px;
+    height: 15px;
+}
+
+#Final{
+    justify-content: space-between;
+    padding-left: 1012px;
+}
+
+#Barrona{
+    position: absolute;
+    top:9.4%;
+    left:18.7%;
+    height: 863px;
+}
+
+#IconArchive{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 155px;
+}
+
+#IconArchive img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#IconArchiveDois{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 85px;
+}
+
+#IconArchiveDois img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#IconArchiveTres{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 80px;
+}
+
+#IconArchiveTres img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#IconLixeirao{
+    padding: 0.2%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 35px;
+}
+
+#IconLixeirao img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
+
+#ButtonComum{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 50px;
+}
+
+#ButtonNormal{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 33px;
+}
+
+#LinhaDosBottom{
+    display: flex;
+    background-color:#c7c2c2;
+    width: 1537px;
+    position: absolute;
+    top:18%;
+    left:19.9%;
+}
+
+#TabelaDoCentro{
+    position: absolute;
+    top: 22%;
+    left: 19.9%;
+}
+
+.Modificações{
+    padding: 20px 216px 0 0;
+    text-align: center;
+    align-items: center;
+    border:1px solid #696969;
+}
+
+#Diminuir{
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    padding: 0.5% 1% 1% 2%;
+}
+
+.Blocos{
+    background-color: #DCDCDC;
+}
+
+.Especial{
+    background-color: #87CEFA;
+}
+
+#EspecialNovamente{
+    background-color: #1E90FF;
+}
+
+#LocalDoCentro{
+    position: absolute;
+    top: 16.5%;
+    left: 19%;
+    width: 1555.5px;
+    height: 16.8;
+}
+
+#LocalDaCurta{
+    position: absolute;
+    top: 14.1%;
+    width: 357.9px;
+}
+
+#BarraScroll{
+    position: absolute;
+    top: 45.4%;
+    left: 19.1% ;
+    width: 1548px;
+    height: 20px;
+}
+
+#EmbaixoTabela{
+    position: absolute;
+    top: 47.4%;
+    left: 19.1%;
+    width: 1548px;
+}
+
+#ButtonFinal{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 80px;
+}
+
+#Alinha{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1538px;
+    position: absolute;
+    top: 48%;
+    left: 19.2%;
+}
+
+#BarraFinal{
+    position: absolute;
+    top: 54%;
+    left: 19.2%;
+    width: 1547px;
+}
+
+#Reto{
+    position: absolute;
+    top: 57%;
+    left: 25.5%;
+}
+
+#Empurrarrr{
+    padding-left: 40px;
+}
+
+#Empurrarr{
+    padding-left: 56px;
+}
+
+#EmpurraEmpurra{
+    padding-left: 31px;
+}
+
+#Joga{
+    padding-left: 53px;
+    margin-bottom: 5px;
+}
+
+#EmpurraNumber{
+    padding-left: 18.7px;
+}
+
+#EmpurraIndex{
+    padding-left: 3px;
+}
+
+#EmpurraElement{
+    padding-left: 3px;
+}
+
+#Agrupar{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#Agrupar Img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 10% 1% 55%;
+}
+
+#Position{
+    position: absolute;
+    top: 57.5%;
+    left: 32%;
+}
+
+#Reuni{
+    padding: 1%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#Reuni img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 10% 1% 14%;
+}
+
+#Juntar{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#Juntalos{
+    padding: 1%;
+    padding-left: 90%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+.Blocao{
+    padding-top: 3px;
+}
+
+#Nos{
+    padding: 1%;
+    padding-left: 90%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px; 
+}
+
+#Vos{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#CetaPraBaixo{
+    padding: 1%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+    border:solid #1E90FF;
+}
+
+#CetaPraBaixo Img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 10% 1% 77%;
+}
+
+#Container{
+    position: absolute;
+    top: 57%;
+    left: 60%;
+    margin: 5px
+}
+
+#RM{
+    padding-left: 17px;
+}
+
+#AM{
+    padding-left: 20px;
+}
+
+#Avai{
+    padding-left: 95px;
+}
+
+#Flamengo{
+    padding-left: 75px;
+}
+
+#JEC{
+    padding-left: 85px;
+}
+
+#Vasco{
+    padding-left: 93px;
+}
+
+#BH{
+    padding-right: 10px;
+}
+
+#CortinaFinal{
+    position: absolute;
+    top: 58%;
+    left: 67%;
+}
+
+#Grupo{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#Grupo img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 10% 1% 55%;
+}
+
+#CortinaFinalDupla{
+    position: absolute;
+    top: 61.5%;
+    left: 67%;
+}
+
+#GrupoDois{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#GrupoDois img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 10% 1% 90%;
+}
+
+#CortinaFinalTripla{
+    position: absolute;
+    top: 65.2%;
+    left: 67%;
+}
+
+#GrupoTres{
+    padding: 1%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#GrupoTres img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 10% 1% 72%;
+}
+
+#GrupoQuatro{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#GrupoCinco{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#GrupoSeis{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#CortinaFinalQuarta{
+    position: absolute;
+    top: 68.8%;
+    left: 67%;;
+}
+
+#CortinaFinalQuinta{
+    position: absolute;
+    top: 72.3%;
+    left: 67%;
+}
+
+#CortinaFinalSexta{
+    position: absolute;
+    top: 75.7%;
+    left: 68%;
+}
+
+#CortinaFinalSetima{
+    position: absolute;
+    top: 79.5%;
+    left: 67.2%;
+}
+
+#CortinaFinalOitava{
+    position: absolute;
+    top: 83%;
+    left: 67.2%;
+}
+
+#GrupoSete{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#GrupoSete img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 10% 1% 90%;
+}
+
+#GrupoOito{
+    padding: 0.3%;
+    padding-right: 0.1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 300px;
+}
+
+#GrupoOito img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 10% 1% 90%;
+}
